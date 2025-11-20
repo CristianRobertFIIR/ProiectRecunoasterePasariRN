@@ -1,5 +1,4 @@
 # ProiectRecunoasterePasariRN
-proiect
 **Disciplina:** Rețele Neuronale  
 **Instituție:** POLITEHNICA București – FIIR  
 **Student:** Cristian Robert-Mihai 
