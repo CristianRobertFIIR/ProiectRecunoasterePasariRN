@@ -17,10 +17,12 @@
 
 | Specie | **Tip** | **Unitate** | **Descriere** | **Domeniu valori** |
 |-------------------|---------|-------------|---------------|--------------------|
-| specia_1 | imagine | - | imagini cu specia 1 | 0–20 |
-| specia_2 | imagine | - | imagini cu specia 2 | 0–20 |
-| specia_3 | imagine | - | imagini cu specia 3 | 0–20 |
-| ... | ... | ... | ... | ... |
+| barza | imagine | - | imagini cu barza | 0–20 |
+| corb | imagine | - | imagini cu corb | 0–20 |
+| flamingo | imagine | - | imagini cu flamingo | 0–20 |
+| rata | imagine | - | imagini cu rata | 0–20 |
+| fazan | imagine | - | imagini cu fazan | 0–20 |
+| vrabia de casa | imagine | - | imagini cu vrabia de casa | 0–20 |
 
 **Fișier recomandat:**  `data/README.md`
 
